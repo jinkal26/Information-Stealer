@@ -2,12 +2,6 @@
 
 ---
 
-## Important — Safety & Legal Notice
-
-I can’t help create or provide materials for tools intended to steal information or otherwise perform unauthorized access. Building or distributing an "information stealer" is harmful and illegal in many jurisdictions.
-
-However, I *can* help with **defensive, educational**, and **authorized** projects that teach the same concepts safely — for example, a lab that simulates data-exfiltration techniques at a high level so defenders can learn detection, prevention, and incident response. The rest of this README is a complete, safe alternative you can use for classroom exercises or red-team/blue-team training in a controlled environment.
-
 ---
 
 ## Project Overview
